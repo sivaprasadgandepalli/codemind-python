@@ -1,0 +1,5 @@
+n=input()
+string=str(n)
+d=string.split()
+l=len(d)
+print(l)
